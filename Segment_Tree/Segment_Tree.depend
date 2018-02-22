@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1519312783 source:f:\cplusplus\segment_tree\main.cpp
+	<iostream>
+	"Segment_Tree.h"
+
+1519314600 f:\cplusplus\segment_tree\segment_tree.h
+
+1519312047 source:f:\cplusplus\segment_tree\segment_tree.cpp
+	<iostream>
+	<algorithm>
+	"Segment_Tree.h"
+
